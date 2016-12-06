@@ -1,0 +1,29 @@
+﻿:: Start
+Your story will display this passage first. Edit it by double clicking it.
+
+[[Weiter zu Schritt 1|Step 1]]
+
+
+:: Step 1
+Lorem ipsum...
+
+[[Weiter zu Schritt 2|Step 2]]
+[[Weiter zu Schritt 3|Step 3]]
+
+
+:: Step 2
+Lorem ipsum...
+
+[[Ende|Exit]]
+
+
+:: Step 3
+Lorem ipsum...
+
+[[Zurück zu Schritt 2|Step 2]]
+
+
+:: Exit
+Hier ist das Ende.
+
+

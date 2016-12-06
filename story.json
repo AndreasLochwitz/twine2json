@@ -1,0 +1,46 @@
+{
+    "Exit": {
+        "content": "Hier ist das Ende.\n\n\n",
+        "links": []
+    },
+    "Start": {
+        "content": "Your story will display this passage first. Edit it by double clicking it.\r\n\r\n",
+        "links": [
+            {
+                "desc": "Weiter zu Schritt 1",
+                "target": "Step 1"
+            }
+        ]
+    },
+    "Step 1": {
+        "content": "Lorem ipsum...\r\n\r\n",
+        "links": [
+            {
+                "desc": "Weiter zu Schritt 2",
+                "target": "Step 2"
+            },
+            {
+                "desc": "Weiter zu Schritt 3",
+                "target": "Step 3"
+            }
+        ]
+    },
+    "Step 2": {
+        "content": "Lorem ipsum...\r\n\r\n",
+        "links": [
+            {
+                "desc": "Ende",
+                "target": "Exit"
+            }
+        ]
+    },
+    "Step 3": {
+        "content": "Lorem ipsum...\r\n\r\n",
+        "links": [
+            {
+                "desc": "Zurück zu Schritt 2",
+                "target": "Step 2"
+            }
+        ]
+    }
+}
